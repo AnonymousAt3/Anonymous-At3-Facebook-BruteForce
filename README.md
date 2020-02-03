@@ -9,7 +9,7 @@ bruteforce attack on facebook account script in python
 * apt-get install git python3 python3-pip python python-pip
 
 ## Run commands one by one
-*
+*git clone https://github.com/AnonymousAt3/Anonymous-At3-Facebook-BruteForce.git
 * cd Anonymous-At3-Facebook-BruteForce-master
 * pip3 install requests bs4
 * pip install mechanize
