@@ -32,8 +32,8 @@ print(" | | | | | | | (_) | | | | |_| | | | | | | (_) | |_| \__ \ | | | | |_.___
 print(" \_| |_/_| |_|\___/|_| |_|\__, |_| |_| |_|\___/ \__,_|___/ \_| |_/\__\____/  ")
 print("                           __/ |                                             ")
 print("                          |___/                                              \n")
-print("                            This Script Was Made By Anonymous At3 (Cyber Ghost)                         ")
-print("                            youtube Anonymous At3 - https://www.youtube.com/channel/UChNoHwc5jT9YU5RtKzX_c7A  ")
+print("                            This Script Was Made By Anonymous At3 (admin: Cyber Ghost)                         ")
+print("                            youtube Teach At3 - https://www.youtube.com/channel/UCcbkV_EimZpPihtVvGVcf_A  ")
 print("                            Telegram - https://t.me/joinchat/MPDg7xVrWnGFHarjBj0-ZA ")
 file=open('passwords.txt','r')
 
